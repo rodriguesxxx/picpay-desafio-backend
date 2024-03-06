@@ -1,4 +1,4 @@
-package br.rodriguesxxx.SpringBootSolution.models;
+package br.rodriguesxxx.SpringBootSolution.entities;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
